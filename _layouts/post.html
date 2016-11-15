@@ -1462,7 +1462,7 @@
                                     <div class="img__preloader"></div>
                                     <noscript>&amp;lt;img alt="Lin-Manuel Miranda has some new projects coming up. " class="media__image" src="http://s3.amazonaws.com/rapgenius/DSC_1000-Death-Grips_640.jpeg"&amp;gt;</noscript>
                                     <div class="media__caption el__gallery_image-title">
-                                        <div class="element-raw appearance-standard">The rapper, part of the group Death Grips, has had enough of the speculation around his name. </div>
+                                        <div class="element-raw appearance-standard">{{ page.teaser }}</div>
                                     </div>
                                 </div>
                             </section>
@@ -1475,8 +1475,9 @@
                                             <div class="el__storyhighlights">
                                                 <h3 class="el__headline">Story highlights</h3>
                                                 <ul class="el__storyhighlights__list">
-                                                    <li class="el__storyhighlights__item el__storyhighlights--normal">Many people have wondered what it means</li>
-                                                    <li class="el__storyhighlights__item el__storyhighlights--normal">The popular rapper finally reveals it</li>
+                                                    {% for h in page.highlights %}
+                                                      <li class="el__storyhighlights__item el__storyhighlights--normal">{{ h }}</li>
+                                                    {% endfor %}
                                                 </ul>
                                             </div>
                                             <div class="ad ad--epic" data-ad-text="show">
