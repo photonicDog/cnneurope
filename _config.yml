@@ -8,3 +8,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 permalink: /:year/:month/:day/:categories/:title
+gems: [jekyll-admin]
