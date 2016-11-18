@@ -8,6 +8,7 @@ highlights:
   - Many people have wondered what it means
   - The popular rapper finally reveals it
 image: http://i.imgsafe.org/f37128cc45.jpeg
+category: stars
 ---
 
 In an exclusive interview, the rapper and frontman of the popular group Death Grips finally reveals the intention behind his moniker.
