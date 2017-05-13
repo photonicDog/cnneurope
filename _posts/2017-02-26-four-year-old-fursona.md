@@ -1,7 +1,7 @@
 ---
 title: 'Shocking: This 4 Year Old Already Has A "Fursona"'
 layout: post
-image: http://i.imgsafe.org/2161e66f4f.png
+image: "/images/fursona.jpg"
 author: penny
 teaser: This innocent German family hides a dark secret.
 date: '2017-02-25 10:00:00'

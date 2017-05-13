@@ -1,7 +1,7 @@
 ---
 title: 'Unbelievable: Hideo Kojima Has Exactly 69 Followings on Twitter'
 layout: post
-image: http://i.imgsafe.org/1ebdc09913.jpg
+image: "/images/hideo.jpg"
 author: fen
 teaser: The video-game icon shocked his fans with this surprising revelation.
 date: '2016-11-20 07:25:44'

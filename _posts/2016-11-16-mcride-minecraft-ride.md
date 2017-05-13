@@ -1,13 +1,14 @@
 ---
+title: The 'MC' in MC Ride stands for Minecraft
 layout: post
-title: "The 'MC' in MC Ride stands for Minecraft"
-author: "fen"
-date: 2016-11-16
-teaser: The rapper, part of the group Death Grips, has had enough of the speculation around his name.
+author: fen
+date: '2016-11-16'
+teaser: The rapper, part of the group Death Grips, has had enough of the speculation
+  around his name.
 highlights:
-  - Many people have wondered what it means
-  - The popular rapper finally reveals it
-image: http://i.imgsafe.org/f37128cc45.jpeg
+- Many people have wondered what it means
+- The popular rapper finally reveals it
+image: "/images/minecraft.jpg"
 category: stars
 ---
 

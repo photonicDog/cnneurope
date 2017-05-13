@@ -1,7 +1,7 @@
 ---
 title: I Can't Think Of A Goddamn April Fools Joke
 layout: post
-image: http://i.imgsafe.org/fb5eff1530.png
+image: "/images/april.jpg"
 author: penny
 teaser: Seriously, what the hell.
 highlights:
