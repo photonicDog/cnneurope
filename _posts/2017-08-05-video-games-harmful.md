@@ -2,8 +2,14 @@
 title: Video Games Are Harmful
 layout: post
 author: olivia
-teasier: Scientists have found out that they contribute to the fall of society.
+teaser: Scientists have found out that they contribute to the fall of society.
 category: science
+image: "/images/gamers.jpg"
+highlights:
+- A group of investigative scientists have found out new correlations between 'gamers'
+  and society.
+- They state that 'gamer culture' creates a schism in modern popular culture.
+- ''
 ---
 
 On Saturday, the 05th of April 2017, scientists have published that they have found conclusive evidence that video games positively contribute to the downfall of society as a whole.  The investigative team has stated that 'gamers' are creating a schism in popular culture.
